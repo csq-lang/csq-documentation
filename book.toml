@@ -3,3 +3,18 @@ authors = ["Nykenik24"]
 language = "en"
 src = "src"
 title = "C squared documentation"
+
+[output.html]
+theme = "theme"
+default-theme = "dark"
+preferred-dark-theme = "navy"
+smart-punctuation = true
+definition-lists = true
+admonitions = true
+mathjax-support = false
+no-section-label = false
+git-repository-url = "https://github.com/csq-lang/docs"
+git-repository-icon = "fab-github"
+edit-url-template = "https://github.com/csq-lang/docs/edit/master/src/{path}"
+#input-404 = "not-found.md"
+sidebar-header-nav = true
