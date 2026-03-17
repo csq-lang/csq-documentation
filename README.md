@@ -1,5 +1,5 @@
 # Documentation
-Deployed [here](https://csq-lang.github.io/docs).
+Deployed [here](https://csq-lang.github.io/documentation).
 > https://csq-lang.github.io/documentation
 
 ## Deploy locally
